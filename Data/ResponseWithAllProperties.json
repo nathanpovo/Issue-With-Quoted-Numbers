@@ -1,0 +1,10 @@
+{
+  "album": {
+    "name": "Back in Black",
+    "artist": "AC/DC",
+    "userplaycount": "123",
+    "wiki": {
+      "summary": "Back in Black is an album ..."
+    }
+  }
+}
